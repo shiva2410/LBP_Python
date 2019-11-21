@@ -1,2 +1,2 @@
 # LBP_Python
-Linear Binary Implementation in PYTHON
+Local Binary Pattern Implementation in PYTHON
